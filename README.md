@@ -72,6 +72,13 @@ The test relies on it's own Dockerfile at `tests/testthat/Dockerfile`, which red
 
 When the test fails with "too many failures", the Docker container `inspecter_test` must be removed manually before re-running the tests.
 
+## Contribute
+
+All help is welcome: asking questions, providing documentation, testing, or even programming.
+
+Please note that this project is released with a [Contributor Code of Conduct](CONDUCT.md).
+By participating in this project you agree to abide by its terms.
+
 ## License
 
 o2r muncher is licensed under Apache License, Version 2.0, see file LICENSE.
